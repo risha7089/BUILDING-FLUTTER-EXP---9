@@ -61,15 +61,15 @@ The application uses Firebase Core to initialize Firebase and the Cloud Firestor
 
 ### 1. Initial Application Screen
 
-![Initial Application Screen] (screenshot/initial.png)
+![Initial Application Screen](screenshot/initial.png)
 
 ### 2. Student Details Loaded
 
-![Student Details Loaded] (screenshot/insertion.png)
+![Student Details Loaded](screenshot/insertion.png)
 
 ### 3. Updated Student Details
 
-![Updated Student Details] (screenshot/update.png)
+![Updated Student Details](screenshots/update.png)
 
 ## Result
 
